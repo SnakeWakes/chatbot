@@ -1,0 +1,5 @@
+Chatterbot edits by Corey Nicholas
+
+-----
+Run by chatbot.py
+Database is using an early version, later versions found in dbarchive
